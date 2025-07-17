@@ -1,3 +1,1 @@
-"This is a ReadMe file" 
-"Adding more information" 
-"Branch-specific changes" 
+This is the initial ReadMe file.
